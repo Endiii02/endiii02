@@ -1,9 +1,49 @@
-🎨 The Vision
-"Tôi không chỉ xây dựng trang web - tôi soạn trải nghiệm kỹ thuật số. Mỗi dòng mã là một nốt nhạc, mỗi thành phần là một hợp âm và mỗi tương tác của người dùng là một màn trình diễn trong bản giao hưởng lớn của công nghệ."
+# 🎵 ENDIII's Digital Symphony - The Ultimate Portfolio Experience
 
-🚀 PROJECT ARCHITECTURE
-🏗️ Tech Stack Symphony
-mermaid
+<div align="center">
+  
+![ENDIII Banner](https://sider.ai/autoimage/futuristic music coding studio neon)
+
+<h1>🎧 ENDIII'S DIGITAL SYMPHONY 🎧</h1>
+<h3>Where Code Becomes Music & Logic Becomes Art</h3>
+
+[![ENDIII ULTIMATE](https://img.shields.io/badge/Status-ULTIMATE%20EDITION-purple?style=for-the-badge&logoColor=white)](https://github.com/Endiii02)
+[![React Master](https://img.shields.io/badge/React-Master-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![TypeScript Pro](https://img.shields.io/badge/TypeScript-PRO-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Music Coder](https://img.shields.io/badge/Music-Coder-red?style=for-the-badge&logo=music)](https://youtube.com/@ENDiii02)
+
+---
+
+**🌟 LIVE DEMO:** [🔗 endiii.dev](https://endiii.dev) | **📱 MOBILE:** [🔗 m.endiii.dev](https://m.endiii.dev)
+
+---
+
+<div align="left">
+
+## 🎯 ABOUT THE ARTIST & DEVELOPER
+
+### 🎭 The ENDIII Persona
+```javascript
+const ENDIII = {
+  identity: "DJ Producer & Web Developer",
+  born: "24/10/2002",
+  hometown: "Nam Đàn - Nghệ An - Việt Nam 🇻🇳",
+  current: "Seoul, South Korea 🇰🇷",
+  philosophy: "Code is poetry, Music is emotion, Life is harmony",
+  skills: ["React", "TypeScript", "Music Production", "DJ Performance"],
+  passion: "Creating digital symphonies through code and music"
+};
+```
+
+### 🎨 The Vision
+> "I don't just build websites - I compose digital experiences. Every line of code is a note, every component is a chord, and every user interaction is a performance in the grand symphony of technology."
+
+---
+
+## 🚀 PROJECT ARCHITECTURE
+
+### 🏗️ Tech Stack Symphony
+```mermaid
 graph TD
     A[ENDIII's Portfolio] --> B[React 18.3.1]
     A --> C[TypeScript]
@@ -17,8 +57,10 @@ graph TD
     G --> K[Type Safety]
     H --> L[Theme System]
     I --> M[Icon System]
-📁 Advanced Project Structure
-php
+```
+
+### 📁 Advanced Project Structure
+```
 endiii-portfolio/
 ├── 🎵 src/
 │   ├── 🎼 components/
@@ -59,9 +101,14 @@ endiii-portfolio/
 ├── 🎵 docs/                        # Documentation
 ├── 🎵 scripts/                     # Build and deploy scripts
 └── 🎵 config/                      # Configuration files
-🎨 DESIGN SYSTEM
-🎨 ENDIII's Color Symphony
-css
+```
+
+---
+
+## 🎨 DESIGN SYSTEM
+
+### 🎨 ENDIII's Color Symphony
+```css
 :root {
   /* 🎵 Primary Colors - The Base Notes */
   --endiii-primary: 0 0% 9%;        /* Deep black like code */
@@ -78,9 +125,14 @@ css
   --endiii-error: 0 72% 51%;         /* Error like dissonance */
   --endiii-info: 199 89% 48%;        /* Info like melody guide */
 }
-🎵 MUSIC INTEGRATION SYSTEM
-🎛️ Advanced Music Player Architecture
-typescript
+```
+
+---
+
+## 🎵 MUSIC INTEGRATION SYSTEM
+
+### 🎛️ Advanced Music Player Architecture
+```typescript
 // 🎵 ENDIII's Music Player Core
 interface MusicPlayerState {
   currentTrack: Track | null;
@@ -105,9 +157,14 @@ interface Track {
   bpm: number;
   key: string;
 }
-🚀 PERFORMANCE OPTIMIZATION
-⚡ Advanced Performance Techniques
-typescript
+```
+
+---
+
+## 🚀 PERFORMANCE OPTIMIZATION
+
+### ⚡ Advanced Performance Techniques
+```typescript
 // 🚀 ENDIII's Performance Optimizations
 const PerformanceOptimizer = {
   // 🎯 Lazy Loading Components
@@ -128,9 +185,14 @@ const PerformanceOptimizer = {
     };
   }
 };
-🌐 SEO & MARKETING
-🎯 Advanced SEO Configuration
-typescript
+```
+
+---
+
+## 🌐 SEO & MARKETING
+
+### 🎯 Advanced SEO Configuration
+```typescript
 // 🎯 ENDIII's SEO Configuration
 const SEOConfig = {
   siteUrl: 'https://endiii.dev',
@@ -148,9 +210,14 @@ const SEOConfig = {
     site_name: 'ENDIII Digital Symphony'
   }
 };
-📊 ANALYTICS & MONITORING
-📈 Advanced Analytics Setup
-typescript
+```
+
+---
+
+## 📊 ANALYTICS & MONITORING
+
+### 📈 Advanced Analytics Setup
+```typescript
 // 📊 ENDIII's Analytics System
 const AnalyticsSystem = {
   // 📈 Google Analytics 4
@@ -172,9 +239,14 @@ const AnalyticsSystem = {
     NAVIGATION_CLICK: 'navigation_click'
   }
 };
-🚀 DEPLOYMENT & CI/CD
-🎯 Advanced Deployment Pipeline
-yaml
+```
+
+---
+
+## 🚀 DEPLOYMENT & CI/CD
+
+### 🎯 Advanced Deployment Pipeline
+```yaml
 # 🚀 ENDIII's GitHub Actions CI/CD
 name: ENDIII Portfolio Deployment
 
@@ -213,82 +285,114 @@ jobs:
         vercel-token: ${{ secrets.VERCEL_TOKEN }}
         vercel-org-id: ${{ secrets.VERCEL_ORG_ID }}
         vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }}
-🎯 CONTRIBUTING GUIDELINES
-🚀 How to Contribute to ENDIII's Symphony
-🎵 Step 1: Fork the Repository
-bash
+```
+
+---
+
+## 🎯 CONTRIBUTING GUIDELINES
+
+### 🚀 How to Contribute to ENDIII's Symphony
+
+#### 🎵 Step 1: Fork the Repository
+```bash
 git clone https://github.com/YOUR_USERNAME/endiii-portfolio.git
 cd endiii-portfolio
-🎵 Step 2: Create Your Feature Branch
-bash
+```
+
+#### 🎵 Step 2: Create Your Feature Branch
+```bash
 git checkout -b feature/amazing-feature
-🎵 Step 3: Make Your Changes
-Follow the existing code style
-Add appropriate comments
-Update documentation
-Test your changes
-🎵 Step 4: Commit Your Changes
-bash
+```
+
+#### 🎵 Step 3: Make Your Changes
+- Follow the existing code style
+- Add appropriate comments
+- Update documentation
+- Test your changes
+
+#### 🎵 Step 4: Commit Your Changes
+```bash
 git commit -m 'feat: add amazing feature to ENDIII portfolio'
-🎵 Step 5: Push to the Branch
-bash
+```
+
+#### 🎵 Step 5: Push to the Branch
+```bash
 git push origin feature/amazing-feature
-🎵 Step 6: Open a Pull Request
-Title: feat: Add amazing feature
-Description: Detailed explanation of changes
-Screenshots: If applicable
-Testing: How you tested the changes
-📜 LICENSE INFORMATION
-🎯 ENDIII ULTIMATE LICENSE v3.0
-This project is licensed under the ENDIII PROFILE WEB LICENSE v3.0 ULTIMATE.
+```
 
-🎵 Quick License Summary
-✅ What you CAN do:
+#### 🎵 Step 6: Open a Pull Request
+- Title: `feat: Add amazing feature`
+- Description: Detailed explanation of changes
+- Screenshots: If applicable
+- Testing: How you tested the changes
 
-Use for personal and educational purposes
-Modify and customize for your needs
-Use commercially with proper attribution
-Distribute under the same license terms
-Learn and get inspired by the code
-❌ What you CANNOT do:
+---
 
-Remove ENDIII attribution
-Use for illegal or harmful purposes
-Claim ownership of the original code
-Distribute without license information
-Create malicious software
-🎵 Full License
-See LICENSE.md for the complete license text.
+## 📜 LICENSE INFORMATION
 
-🎉 SPECIAL FEATURES
-🎵 Interactive Elements
-Music Player: Full-featured audio player with visualizer
-Theme Switcher: Dark/light mode with custom themes
-Particle Background: Interactive particle system
-3D Elements: Three.js 3D graphics integration
-Animations: Smooth Framer Motion animations
-🎵 Advanced Features
-PWA Support: Progressive Web App capabilities
-Offline Mode: Service worker for offline functionality
-Multi-language: Vietnamese, Korean, English support
-Voice Commands: Voice-controlled navigation
-AR Integration: Augmented reality features
-📞 CONTACT & COLLABORATION
-🎯 Get in Touch with ENDIII
-📧 Direct Contact
-Email: nguyencanhdien2002.org@gmail.com
-Discord: ENDIII#1234
-Telegram: @ENDIII02
-🌐 Social Media
-GitHub: Endiii02
-Facebook: Ensidy24102002
-YouTube: @ENDiii02
-Instagram: @endiii.02
-TikTok: @...endiii_02
-💼 Business Inquiries
+### 🎯 ENDIII ULTIMATE LICENSE v3.0
+
+This project is licensed under the **ENDIII PROFILE WEB LICENSE v3.0 ULTIMATE**.
+
+#### 🎵 Quick License Summary
+
+✅ **What you CAN do:**
+- Use for personal and educational purposes
+- Modify and customize for your needs
+- Use commercially with proper attribution
+- Distribute under the same license terms
+- Learn and get inspired by the code
+
+❌ **What you CANNOT do:**
+- Remove ENDIII attribution
+- Use for illegal or harmful purposes
+- Claim ownership of the original code
+- Distribute without license information
+- Create malicious software
+
+#### 🎵 Full License
+See [LICENSE.md](LICENSE.md) for the complete license text.
+
+---
+
+## 🎉 SPECIAL FEATURES
+
+### 🎵 Interactive Elements
+- **Music Player**: Full-featured audio player with visualizer
+- **Theme Switcher**: Dark/light mode with custom themes
+- **Particle Background**: Interactive particle system
+- **3D Elements**: Three.js 3D graphics integration
+- **Animations**: Smooth Framer Motion animations
+
+### 🎵 Advanced Features
+- **PWA Support**: Progressive Web App capabilities
+- **Offline Mode**: Service worker for offline functionality
+- **Multi-language**: Vietnamese, Korean, English support
+- **Voice Commands**: Voice-controlled navigation
+- **AR Integration**: Augmented reality features
+
+---
+
+## 📞 CONTACT & COLLABORATION
+
+### 🎯 Get in Touch with ENDIII
+
+#### 📧 Direct Contact
+- **Email**: nguyencanhdien2002.org@gmail.com
+- **Discord**: ENDIII#1234
+- **Telegram**: @ENDIII02
+
+#### 🌐 Social Media
+- **GitHub**: [Endiii02](https://github.com/Endiii02)
+- **Facebook**: [Ensidy24102002](https://facebook.com/Ensidy24102002)
+- **YouTube**: [@ENDiii02](https://youtube.com/@ENDiii02)
+- **Instagram**: [@endiii.02](https://instagram.com/endiii.02)
+- **TikTok**: [@...endiii_02](https://tiktok.com/@...endiii_02)
+
+#### 💼 Business Inquiries
 For commercial projects, collaborations, or licensing:
 
-email
+```email
 Subject: [ENDIII BUSINESS] Your inquiry
 To: nguyencanhdien2002.org@gmail.com
 Body: 
@@ -296,62 +400,98 @@ Body:
 - Budget range: [Your budget]
 - Timeline: [Your timeline]
 - Contact information: [Your details]
-🎯 FUTURE ROADMAP
-🚀 Upcoming Features (Q4 2023)
- AI Music Assistant: AI-powered music composition helper
- Virtual DJ Booth: 3D virtual DJ performance space
- Code-to-Music: Convert code patterns to musical compositions
- Blockchain Integration: NFT music releases
- Mobile App: React Native mobile application
-🚀 Long-term Vision (2024)
- ENDIII Academy: Online courses for coding and music production
- Collaboration Platform: Connect developers and musicians
- Music Tech Startup: Launch a music technology company
- International Tours: DJ performances at tech conferences
- Open Source Foundation: Support open source projects
-🎨 SHOWCASE
-📸 Project Screenshots
+```
+
+---
+
+## 🎯 FUTURE ROADMAP
+
+### 🚀 Upcoming Features (Q4 2023)
+- [ ] **AI Music Assistant**: AI-powered music composition helper
+- [ ] **Virtual DJ Booth**: 3D virtual DJ performance space
+- [ ] **Code-to-Music**: Convert code patterns to musical compositions
+- [ ] **Blockchain Integration**: NFT music releases
+- [ ] **Mobile App**: React Native mobile application
+
+### 🚀 Long-term Vision (2024)
+- [ ] **ENDIII Academy**: Online courses for coding and music production
+- [ ] **Collaboration Platform**: Connect developers and musicians
+- [ ] **Music Tech Startup**: Launch a music technology company
+- [ ] **International Tours**: DJ performances at tech conferences
+- [ ] **Open Source Foundation**: Support open source projects
+
+---
+
+## 🎨 SHOWCASE
+
+### 📸 Project Screenshots
+
 <div align="center">
-![Homepage](https://sider.ai/autoimage/portfolio website homepage futuristic) ![Music Player](https://sider.ai/autoimage/music player interface modern) ![Mobile View](https://sider.ai/autoimage/portfolio website mobile responsive)
+  
+![Homepage](https://sider.ai/autoimage/portfolio website homepage futuristic)
+![Music Player](https://sider.ai/autoimage/music player interface modern)
+![Mobile View](https://sider.ai/autoimage/portfolio website mobile responsive)
 
 </div>
-📊 PROJECT STATISTICS
+
+---
+
+## 📊 PROJECT STATISTICS
+
 <div align="center">
-Metric	Value	Trend
-⭐ GitHub Stars	Stars	📈
-🍴 Forks	Forks	📈
-🐛 Issues	Issues	📉
-🚀 Performance	Lighthouse Score	📈
-📱 Mobile Score	Mobile Friendly	📈
+
+| Metric | Value | Trend |
+|--------|-------|-------|
+| ⭐ GitHub Stars | [![Stars](https://img.shields.io/github/stars/Endiii02/endiii-portfolio?style=social)](https://github.com/Endiii02/endiii-portfolio) | 📈 |
+| 🍴 Forks | [![Forks](https://img.shields.io/github/forks/Endiii02/endiii-portfolio?style=social)](https://github.com/Endiii02/endiii-portfolio) | 📈 |
+| 🐛 Issues | [![Issues](https://img.shields.io/github/issues/Endiii02/endiii-portfolio)](https://github.com/Endiii02/endiii-portfolio/issues) | 📉 |
+| 🚀 Performance | [![Lighthouse Score](https://img.shields.io/badge/Lighthouse-100%25-brightgreen)](https://developers.google.com/speed/pagespeed/insights/) | 📈 |
+| 📱 Mobile Score | [![Mobile Friendly](https://img.shields.io/badge/Mobile-100%25-brightgreen)](https://search.google.com/test/mobile-friendly) | 📈 |
+
 </div>
-🎯 ACKNOWLEDGMENTS
-🙏 Special Thanks
-🎵 To My Mentors
-Professor Kim - For teaching me advanced React patterns
-DJ Minh - For mentoring me in music production
-Dr. Lee - For guiding my research in audio technology
-🎵 To the Community
-React Community - For the amazing framework and support
-Vietnamese Dev Community - For the inspiration and collaboration
-Korean Tech Scene - For the innovation and opportunities
-Open Source Contributors - For making all of this possible
-🎵 To My Supporters
-Family - For unconditional love and support
-Friends - For being my first fans and critics
-Followers - For believing in my vision and journey
-🎵 FINAL WORDS
-"Code is poetry written in logic"
-"Music is emotion expressed in sound"
-"Life is the harmony between them"
-"ENDIII is the conductor of this digital symphony"
+
+---
+
+## 🎯 ACKNOWLEDGMENTS
+
+### 🙏 Special Thanks
+
+#### 🎵 To My Mentors
+- **Professor Kim** - For teaching me advanced React patterns
+- **DJ Minh** - For mentoring me in music production
+- **Dr. Lee** - For guiding my research in audio technology
+
+#### 🎵 To the Community
+- **React Community** - For the amazing framework and support
+- **Vietnamese Dev Community** - For the inspiration and collaboration
+- **Korean Tech Scene** - For the innovation and opportunities
+- **Open Source Contributors** - For making all of this possible
+
+#### 🎵 To My Supporters
+- **Family** - For unconditional love and support
+- **Friends** - For being my first fans and critics
+- **Followers** - For believing in my vision and journey
+
+---
+
+## 🎵 FINAL WORDS
+
+> "Code is poetry written in logic"  
+> "Music is emotion expressed in sound"  
+> "Life is the harmony between them"  
+> "ENDIII is the conductor of this digital symphony"
+
+---
 
 <div align="center">
-🎉 THANK YOU FOR VISITING ENDIII'S DIGITAL SYMPHONY
-Made with ❤️, 🎵, and 💻 by ENDIII
-DJ Producer & Web Developer
 
-🇰🇷🇻🇳 From Seoul with Love to Nghệ An 🇻🇳🇰🇷
+## 🎉 THANK YOU FOR VISITING ENDIII'S DIGITAL SYMPHONY
 
-Back to Top
+**Made with ❤️, 🎵, and 💻 by ENDIII**  
+*DJ Producer & Web Developer*
+
+🇰🇷🇻🇳 **From Seoul with Love to Nghệ An** 🇻🇳🇰🇷
+
+[![Back to Top](https://img.shields.io/badge/Back%20to%20Top-⬆️-blue?style=for-the-badge)](#-endiis-digital-symphony---the-ultimate-portfolio-experience)
 
 </div>
