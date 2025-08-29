@@ -1,0 +1,319 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+/build
+/dist
+/out
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# nyc test coverage
+.nyc_output
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# Next.js build output
+.next
+
+# Nuxt.js build / generate output
+.nuxt
+dist
+
+# Gatsby files
+.cache/
+public
+
+# Storybook build outputs
+.out
+.storybook-out
+
+# Temporary folders
+tmp/
+temp/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB Local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Audio files (if not committed)
+src/assets/music/*.mp3
+src/assets/music/*.wav
+src/assets/music/*.flac
+
+# Video files (if not committed)
+src/assets/videos/*.mp4
+src/assets/videos/*.avi
+src/assets/videos/*.mov
+
+# Large images (if not committed)
+src/assets/images/*.psd
+src/assets/images/*.ai
+src/assets/images/*.tiff
+
+# Build artifacts
+*.zip
+*.tar.gz
+*.rar
+
+# Configuration files with secrets
+config/secrets.json
+config/local.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache files
+.cache/
+*.cache
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# System files
+*.sys
+*.dll
+*.exe
+*.bin
+
+# Compressed files
+*.7z
+*.dmg
+*.iso
+
+# Virtual machine files
+*.vmdk
+*.ova
+*.ovf
+
+# Docker
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# Kubernetes
+k8s/
+*.yaml
+*.yml
+
+# Terraform
+*.tf
+*.tfstate
+*.tfstate.backup
+
+# Ansible
+*.retry
+inventory/
+
+# Packer
+packer_cache/
+
+# Vagrant
+.vagrant/
+
+# Documentation builds
+docs/_build/
+docs/build/
+
+# Storybook
+storybook-static/
+
+# Angular
+*.ngbuild
+.angular/
+
+# React Native
+ios/
+android/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.buildlog
+.packages
+.pub/
+
+# Unity
+/Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+*.csproj
+*.sln
+*.userprefs
+
+# Unreal Engine
+Binaries/
+Build/
+Content/
+DerivedDataCache/
+Intermediate/
+Saved/
+Config/
+Logs/
+*.VC.db
+*.VC.VC.opendb
+*.sln
+*.xcodeproj
+*.xcworkspace
+*.xcworkspace
+
+# Godot
+*.import
+.export.cfg
+export_presets.cfg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# C/C++
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.app
